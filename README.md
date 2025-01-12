@@ -135,12 +135,12 @@ This project demonstrates the integration of three NoSQL databases (**MongoDB**,
 ---
 
 ## **Team Members**
-- [Add your names here]
+- Jithin THOMAS
 
 ---
 
 ## **GitHub Repository**
-- [Provide the link here]
+- https://github.com/thomasjithin440/NoSQL/blob/main/NoSQL_Final_Project.ipynb
 
 ---
 
